@@ -1,6 +1,6 @@
-# firestore_practice
+# flutter todo
 
-A new Flutter project.
+Practice for flutter and firestore.
 
 ## Getting Started
 
